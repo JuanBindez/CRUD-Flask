@@ -3,7 +3,7 @@
 ## CRUD with flask
 
 
-### Create Database
+### Create Database (if not exist)
     sqlite3 instance/database.db < database.sql
 
 ### requirements
